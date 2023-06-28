@@ -4,8 +4,3 @@
 - Teachers could easily manage students (kick, mute, ban), invite them to the classroom (video call), check attendances, public multiple choices questions to a class, and add bad words to restrict in the server via provided commands.
 - Students could register and join in a class, answer questions provided by the teacher, interact with other members in the server, and play some idle games via easy-to-use commands.
 
-Authors:
-- [Le Huu Tuan Huy](https://github.com/tuanhuy180903)
-- [Tran Gia Phuc](https://github.com/trgiaphuc99)
-- Dang Van Phuoc
-- Pham Minh Nhat
